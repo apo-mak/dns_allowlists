@@ -21,4 +21,9 @@
 @@||gr.linkwi.se^
 @@||antenna-ott.brightcove.services^
 @@||brightcove.services^
-@@||ynuf.aliapp.org^
+@@||login.aliexpress.com^
+@@||login.aliexpress.us^
+@@||ae.mmstat.com^
+@@||ae01.alicdn.com^
+@@||acs.aliexpress.com^
+@@||assets.aliexpress-media.com^
