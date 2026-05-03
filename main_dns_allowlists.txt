@@ -1,0 +1,23 @@
+! 
+! Title: Main DNS AllowList
+! Last modified: 2026-05-03 08:50 UTC
+!
+! main_dns_allowlists.txt
+
+@@||api.onesignal.com^
+@@||continuum.dds.microsoft.com^
+@@||www.skype.com^
+@@||emea.ng.msg.teams.microsoft.com^
+@@||api3.cc.skype.com^
+@@||api.flightproxy.teams.microsoft.com^
+@@||update.code.visualstudio.com^
+@@||go.linkwi.se^
+@@||i.pinimg.com^
+@@||s.pinimg.com^
+@@||plex.direct^
+@@||byteget.xyz^
+@@||byteget.com^
+@@||u.pcloud.com^
+@@||gr.linkwi.se^
+@@||antenna-ott.brightcove.services^
+@@||brightcove.services^
