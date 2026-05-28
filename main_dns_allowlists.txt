@@ -27,3 +27,13 @@
 @@||ae01.alicdn.com^
 @@||acs.aliexpress.com^
 @@||assets.aliexpress-media.com^
+
+! AlphaTV / KwikMotion playback: the player adblock module pauses video when
+! Google IMA's instream video client from this host is DNS-blocked.
+@@||s0.2mdn.net^
+! ANT1 / SKAI Phaistos-Bitmovin playback: Bitmovin player license checks are
+! required before streams can keep playing.
+@@||licensing.bitmovin.com^
+! ANT1 replay playback: blocked Brightcove OTT backend used by the video player
+! to fetch stream/player metadata for antenna.gr episodes.
+@@||antenna-ott.brightcove.services^
