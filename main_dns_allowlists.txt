@@ -28,6 +28,9 @@
 @@||acs.aliexpress.com^
 @@||assets.aliexpress-media.com^
 
+!Umami allow access to documents
+@@||umami.is^
+
 ! AlphaTV / KwikMotion playback: the player adblock module pauses video when
 ! Google IMA's instream video client from this host is DNS-blocked.
 @@||s0.2mdn.net^
