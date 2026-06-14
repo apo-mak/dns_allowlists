@@ -43,3 +43,6 @@
 ! Aegean Airline
 @@||mobile.aegeanair.com^
 @@||aegeanair.com^
+! Revolut 
+! Revolut Transfers
+@@||aqueduct.revolut.com^
