@@ -40,3 +40,6 @@
 ! ANT1 replay playback: blocked Brightcove OTT backend used by the video player
 ! to fetch stream/player metadata for antenna.gr episodes.
 @@||antenna-ott.brightcove.services^
+! Aegean Airline
+@@||mobile.aegeanair.com^
+@@||aegeanair.com^
